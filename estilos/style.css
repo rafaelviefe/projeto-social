@@ -11,7 +11,7 @@ html,body{
     background-color: black;
 }
 body{
-    background: url(../imagens/fundo-madeira.jpg) no-repeat top center;
+    background: url(../imagens/wallpaper.jpg) no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -24,20 +24,23 @@ main{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 627px;
-    width: 311px;
-    background: url(../imagens/frame-iphone.png) no-repeat;
+    height: 552px;
+    width: 306px;
+    background: url(../imagens/modelocelular.png) no-repeat;
 }
 #tela{
     position: relative;
-    top: 81px;
-    left: 23px;
-    width: 265px;
-    height: 469px;
+    top: 24px;
+    left: 17px;
+    width: 272px;
+    height: 503px;
 }
 #socialmedia{
     text-align: right;
-    padding-top: 230px;
+}
+nav {
+    display: inline-block;
+    padding-top: 37vh;
 }
 #socialmedia img{
     width: 50px;
