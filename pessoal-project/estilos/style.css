@@ -37,8 +37,11 @@ main{
 }
 #socialmedia{
     text-align: right;
-    padding-top: 50vh;
-    transform: translate(0%, -25%);
+}
+nav {
+    display: inline-block;
+    padding-top: 58vh;
+    transform: translate(0, -25%);
 }
 #socialmedia img{
     width: 50px;
