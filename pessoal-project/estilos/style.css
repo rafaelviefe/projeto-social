@@ -26,7 +26,7 @@ main{
     transform: translate(-50%, -50%);
     height: 552px;
     width: 306px;
-    background: url(../imagens/phone-mobile.png) no-repeat;
+    background: url(../imagens/modelocelular.png) no-repeat;
 }
 #tela{
     position: relative;
@@ -40,8 +40,7 @@ main{
 }
 nav {
     display: inline-block;
-    padding-top: 58vh;
-    transform: translate(0, -25%);
+    padding-top: 37vh;
 }
 #socialmedia img{
     width: 50px;
